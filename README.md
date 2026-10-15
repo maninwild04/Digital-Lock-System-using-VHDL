@@ -36,3 +36,5 @@ generated in Xilinx ISE.
 - Electronic access control
 - Digital security systems
 - FPGA-based digital design
+## Author
+- B.Tech Electronics and Communication Engineering Student
